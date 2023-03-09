@@ -1,2 +1,2 @@
-# site_checker
+# Site Checker
 Verify if a url works
